@@ -162,6 +162,8 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 | 🤑   | [ Highperformr.ai - Twitter Analytics & Scheduling Software](https://www.highperformr.ai//?ref=black_friday_deals_by_nikhil) | Enhance your Twitter presence with Highperformr. Features include Twitter Analytics, CRM, audience building, tweet scheduling, and more.                                                                                            |
 | 🤑   | [Subreddit tracker](https://subreddittraffic.live/)                                                                          | Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic. 30% OFF lifetime plan with code **BLACKFRIDAY2024** |
 
+| 🤑   | [Reddit Growth Bundle](https://www.bynapkin.com/guides/reddit)                                                                          | Reach maximum Reddit Complete Reddit growth package combining the comprehensive Reddit Marketing Guide ($99 value) with SubredditTraffic.live Premium ($49 value). Includes traffic analytics dashboard, subreddit growth insights, and business strategy templates. The guide covers everything from Reddit fundamentals to advanced growth tactics, while the premium tool provides real-time traffic insights and analytics. Deal:40% off the complete bundle ($89 instead of $148)
+
 ## <a name="other-software"></a> 💾 Other Software
 
 | Name | Description                                                    | Discount Code & Terms                                                                       |
